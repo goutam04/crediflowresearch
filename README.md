@@ -1,10 +1,1 @@
-We are launching an initiative to automate the data feed from Global Wealth to ODC Richfeel to streamline the invoicing and revenue billing process. Currently, the operations team manually downloads reports and calculates fees for each client. This automation will enhance billing accuracy, reduce manual effort, and mitigate the risk of errors.
-
-
-We are enhancing an existing functionality to display the ACH details of underlying disbursements, including ACH ABA, beneficiary, account number, and name. Currently, the team manually refers to different systems to obtain this information and complete the ACH disbursement. This process is lengthy and complex, requiring multiple steps to validate payments. Due to its complexity and dependency on other systems, it is prone to human error, potentially leading to incorrect payments. The goal is to completely eliminate this manual process.
-
-There is no field in GS that indicates a DVAC transaction to global custody. Therefore, direct transactions need to be processed differently than regular ones. For such transactions, the GS operations team must explicitly contact global custody to inform them, ensuring correct processing as DVAC transactions. This process involves significant coordination and follow-ups between the two teams, introducing a scope for error if the transactions are not processed correctly.
-
-ISV is exploring and encouraging clients to consider ACH as an alternative to checks for project deals. Despite this, there is still a high volume of checks that require manual handling and daily uploads. To improve operational efficiency, reduce potential fraud, and enhance cash control, ARP is implementing automation to upload the check status file into GS.
-
-The third-party data center team confirmed an issue with the local telecom provider. After two hours of active troubleshooting, with no resolution or ETA provided, we decided to fail over to the DR site to restore connectivity between Fightech and HSBC. This ensured that daily payment and trade statements were issued on a secure network as scheduled. The failover activity was successfully completed, and the application was restored at 9:00 p.m. EST.
+hi
