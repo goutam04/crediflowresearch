@@ -1,1 +1,4 @@
-# crediflowresearch
+We are launching an initiative to automate the data feed from Global Wealth to ODC Richfeel to streamline the invoicing and revenue billing process. Currently, the operations team manually downloads reports and calculates fees for each client. This automation will enhance billing accuracy, reduce manual effort, and mitigate the risk of errors.
+
+
+We are enhancing an existing functionality to display the ACH details of underlying disbursements, including ACH ABA, beneficiary, account number, and name. Currently, the team manually refers to different systems to obtain this information and complete the ACH disbursement. This process is lengthy and complex, requiring multiple steps to validate payments. Due to its complexity and dependency on other systems, it is prone to human error, potentially leading to incorrect payments. The goal is to completely eliminate this manual process.
